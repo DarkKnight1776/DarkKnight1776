@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkKnight1776
 - 👀 I’m interested in ... Blockchain technology, smart contracts, cryptocurrency, front end development
-- 🌱 I’m currently learning ... Python, HTML, CSs, Javascript
+- 🌱 I’m currently learning ... Python, HTML, CSS, Javascript
 - 📫 How to reach me ... whitehorse1776@proton.me
 
 <!---
